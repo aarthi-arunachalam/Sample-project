@@ -1,2 +1,2 @@
 # Sample-project
-creating a sample project
+creating a sample project for taiga
