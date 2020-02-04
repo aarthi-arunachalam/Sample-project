@@ -1,3 +1,1 @@
-# Sample-project
-creating a sample project
-Welcome to firstqa systems
+Hi all welcome to firstqa systems
